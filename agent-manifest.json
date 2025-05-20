@@ -3,8 +3,8 @@
     "version": "1.0",
     "description": "김경수 프로필 및 블로그 에이전트",
     "endpoints": {
-      "mcp": "https://ai-agent-5wj.pages.dev/mcp",
-      "nlweb": "https://ai-agent-5wj.pages.dev/.well-known/nlweb"
+      "mcp": "/mcp",
+      "nlweb": "/.well-known/nlweb"
     },
     "allowed_models": ["openai/gpt-4", "anthropic/claude"]
   }
