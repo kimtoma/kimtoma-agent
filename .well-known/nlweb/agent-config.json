@@ -1,7 +1,7 @@
 {
     "interface": {
-      "name": "kimtoma-about-interface",
-      "description": "질문-답변용 인터페이스",
+      "name": "kimtoma-about",
+      "description": "김경수에 대한 질문-답변용 인터페이스",
       "entry_point": "/about/index.html"
     },
     "intents": [
