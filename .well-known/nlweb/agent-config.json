@@ -1,0 +1,14 @@
+{
+    "interface": {
+      "name": "kimtoma-about-interface",
+      "description": "질문-답변용 인터페이스",
+      "entry_point": "/about/index.html"
+    },
+    "intents": [
+      {
+        "name": "get_bio",
+        "description": "김경수 경력 요약",
+        "samples": ["경수님 경력 알려줘", "김경수 프로필 요약"]
+      }
+    ]
+  }
